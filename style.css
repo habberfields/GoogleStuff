@@ -1,3 +1,5 @@
-p {
-  color: red;
+.google {
+  display: block;
+  margin: auto;
+  padding: 100 100 10 100;
 }
