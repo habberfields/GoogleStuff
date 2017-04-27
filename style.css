@@ -8,26 +8,35 @@ body {
   height: 100%;
   top: 0;
   left: 0;
+  margin-top: 20px;
 }
 
 .nav-top {
   position: absolute;
   top: 0;
-  right: 0;
-  width: 350px;
+  right: 0px;
+  width: 270px;
   height: 50px;
 }
 
-#gmail,#images {
+#gmail,#images,#dots {
   color: #000;
   font-family: sans-serif;
-  font-size: 13px;
+  font-size: 12.5px;
   font-weight: normal;
   text-decoration: none;
+  margin-left: 10px;
 }
 
 #gmail:hover,#images:hover {
   text-decoration: underline;
+}
+
+#dots {
+  position: absolute;
+  margin-top: 3px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .google {
