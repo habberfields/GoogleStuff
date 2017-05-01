@@ -39,11 +39,35 @@ body {
   margin-right: 20px;
 }
 
+#notif1{
+  color: black;
+  font-family: sans-serif;
+  font-size: 12.5px;
+  font-weight: bold;
+  text-decoration: none;
+  position absolute;
+  margin-top: -25px;
+  margin-left: 166px;
+}
+
 #notif {
   background-color: red;
   height: 20px;
   width: 20px;
   border-radius: 100%;
+  position: absolute;
+  top: 1px;
+  left: 156px;
+}
+
+#notif p {
+  color: white;
+  font-family: sans-serif;
+  font-size: 12.5px;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 3.5px;
 }
 
 .google {
