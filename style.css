@@ -112,24 +112,18 @@
   left: 50%;
   background-color: #f1f1f1;
   border-radius: 3px;
+  color: #757575;
+  font-weight: bolder;
+  font-size: 12px;
+  margin-top: 10px;
 }
 
 #googlesearch:hover, #feelinglucky:hover {
-  background-color: #fff;
-  border: 1px solid #f2f2f2;
+  background-color: #f8f8f8;
+  border: 1px solid #c6c6c6;
+  color: #222;
 }
 
-#googlesearch p:hover, #feelinglucky p:hover {
-  color: black;
-}
-
-
-#googlesearch p, #feelinglucky p{
-  color: #757575;
-  font-weight: bolder;
-  font-size: 13px;
-  margin-top: 10px;
-}
 
 #googlesearch {
   margin-left: -150px;
