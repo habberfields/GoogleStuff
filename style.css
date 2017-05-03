@@ -122,3 +122,11 @@
 #googlesearch {
   margin-left: -150px;
 }
+
+#nav-bottom {
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  background-color: yellow;
+  
+}
